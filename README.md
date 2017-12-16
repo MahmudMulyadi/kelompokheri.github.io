@@ -2,4 +2,7 @@
 PraktikumSistemOperasi
 testing
 modol
-lier pak teu bisa wae jaba lapar 
+lier pak teu bisa wae jaba lapar
+php
+java
+ 
